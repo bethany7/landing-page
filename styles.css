@@ -2,8 +2,16 @@
     background-color: #1f2937;
 }
 
-.header, #panel-1.p {
+#panel-1 h1 {
+    font-size: 48px;
+    color: #f9faf8;
+    font-weight:800;
+
+}
+
+.header, #panel-1 p {
     font-size: 18px;
+    color: #e5e7eb;
 }
 
 .logo {
@@ -11,7 +19,28 @@
     height: auto;
 }
 
+#panel-2 h2 {
+    font-size: 36px;
+    font-weight: 800;
+    color: #1f2937;
+}
+
 .illustration-img img {
     width: 100px;
     height: auto;
+}
+
+.signup-div, .signup-btn {
+    background-color: #3882f6;
+}
+
+#panel-3 {
+    background-color: #e5e7eb;
+}
+
+.quote-text {
+    font-size: 36px;
+    font-style:italic;
+    font-weight: 300;
+    color: #1f2937;
 }
