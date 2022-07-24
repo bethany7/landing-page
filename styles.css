@@ -1,0 +1,17 @@
+.header, .footer, #panel-1 {
+    background-color: #1f2937;
+}
+
+.header, #panel-1.p {
+    font-size: 18px;
+}
+
+.logo {
+    width: 100px;
+    height: auto;
+}
+
+.illustration-img img {
+    width: 100px;
+    height: auto;
+}
